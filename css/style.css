@@ -4,25 +4,33 @@ body {
   font-weight: 400;
   color: #626262;
 }
-.menu-link {
-  color: #7d7d7d;
-  text-decoration: none;
+.header {
+  padding-top: 71px;
+  padding-bottom: 92px;
 }
 .menu-link:hover {
   color: #03a9f4;
+}
+.gallery {
+  padding-bottom: 66px;
 }
 .gallery-category {
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
   color: #b4ad9e;
 }
-.gallery-title {
-  font-weight: 400;
-  font-size: 30px;
-}
+
 .gallery-batton {
   font-family: "Playfair Display", serif;
   font-size: 14px;
   font-weight: 400;
   color: #626262;
+}
+.container {
+  max-width: 936px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(255, 255, 255);
 }
